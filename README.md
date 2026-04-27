@@ -1,4 +1,4 @@
-# Tianna Parris - Data Analyst Portfolio
+# Achmad Naufal - Data Analyst Project
 ## About
 Hi, I'm Naufal, I have an analytical background in Information Technology, I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
 
