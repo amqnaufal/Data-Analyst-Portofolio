@@ -8,11 +8,11 @@ My CV in [pdf](https://github.com/amqnaufal/Data-Analyst-Project/blob/main/Curic
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Portfolio Projects
-[Excel] (https://github.com/amqnaufal/Data-Analyst-Portofolio/tree/main/Excel).
-[Power BI] (https://github.com/amqnaufal/Data-Analyst-Portofolio/tree/main/Power%20BI).
-[Python] (https://github.com/amqnaufal/Data-Analyst-Portofolio/tree/main/Python).
-[SQL] (https://github.com/amqnaufal/Data-Analyst-Portofolio/tree/main/SQL).
-[Tableau] (https://github.com/amqnaufal/Data-Analyst-Portofolio/tree/main/Tableau).
+- [Excel] (https://github.com/amqnaufal/Data-Analyst-Portofolio/tree/main/Excel).
+- [Power BI] (https://github.com/amqnaufal/Data-Analyst-Portofolio/tree/main/Power%20BI).
+- [Python] (https://github.com/amqnaufal/Data-Analyst-Portofolio/tree/main/Python).
+- [SQL] (https://github.com/amqnaufal/Data-Analyst-Portofolio/tree/main/SQL).
+- [Tableau] (https://github.com/amqnaufal/Data-Analyst-Portofolio/tree/main/Tableau).
 
 ## Contacts
 LinkedIn: Achmad Naufal (www.linkedin.com/in/achmad-naufal-758592256)
