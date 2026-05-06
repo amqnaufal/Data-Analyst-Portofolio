@@ -8,7 +8,7 @@ My CV in [pdf](https://github.com/amqnaufal/Data-Analyst-Project/blob/main/Curic
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Portfolio Projects
-- [Data Covid-19 Indonesia] (https://github.com/amqnaufal/Data-Analyst-Portofolio/tree/main/Covid-19%20Indonesia).
+- [Data Covid-19 Indonesia & Visualization] (https://github.com/amqnaufal/Data-Analyst-Portofolio/tree/main/Covid-19%20Indonesia).
 
 ## Contacts
 - LinkedIn: Achmad Naufal (www.linkedin.com/in/achmad-naufal-758592256)
