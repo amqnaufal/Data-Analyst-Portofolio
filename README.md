@@ -16,4 +16,4 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Contacts
 LinkedIn: Achmad Naufal (www.linkedin.com/in/achmad-naufal-758592256)
-Email: naufalabdoel88@gnmail.com
+Email: naufalabdoel88@gmail.com
